@@ -1,0 +1,90 @@
+.aboutRect{
+    position: absolute;
+    width: 334px;
+    height: 446px;
+    left: 187px;
+    top: 778px;
+    background: rgba(188, 154, 68, 0.4);
+}
+
+.aboutChair{
+    position: absolute;
+    width: 334px;
+    height: 445px;
+    left: 50px;
+    top: 50px;
+}
+
+.aboutLine{
+    position: absolute;
+    width: 9px;
+    height: 44px;
+    left: 783px;
+    top: 842px;
+    background: #E4D7B4;
+}
+
+.aboutTitle{
+    position: absolute;
+    width: 329px;
+    height: 28px;
+    left: 805px;
+    top: 835px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.1em;
+    color: #000000;
+
+}
+
+.aboutPara{
+    position: absolute;
+    width: 444px;
+    height: 210px;
+    left: 784px;
+    top: 911px;
+    text-align: justify;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+    letter-spacing: 0.1em;
+    color: #827E7E;
+}
+
+.aboutBtn{
+    position: absolute;
+    width: 204px;
+    height: 54px;
+    left: 749px;
+    top: 1175px;
+    border: 2px solid #BC9A44;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.aboutGo{
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+
+.btnAboutLine{
+    position: absolute;
+    width: 151px;
+    height: 0px;
+    left: 180px;
+    top: 25px;
+    border: 2px solid #000000;
+}

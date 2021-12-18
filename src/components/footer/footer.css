@@ -1,0 +1,25 @@
+footer{
+    position: absolute;
+    width: 1500px;
+    height: 154px;
+    left: 0px;
+    top: 3591px;
+    background: #000000;
+}
+
+.footlogo{
+    position : absolute;
+    width: 402.39px;
+    height: 62px;
+    left: 550px;
+    top: 25%;
+}
+
+.line{
+    position: absolute;
+    width: 166.62px;
+    height: 11.74px;
+    left: 95px;
+    top: 20.4px;
+    background: #BC9A44;
+}

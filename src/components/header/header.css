@@ -1,0 +1,78 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    margin-right: 150px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+  }
+  
+  .logo{
+      
+    position: absolute;
+    align-items: center;
+    width: 103.84px;
+    height: 15.84px;
+    left: 650px;
+    top: 18px;
+  }
+  
+  .ligne{
+    position: absolute;
+    width: 43px;
+    height: 3px;
+    left: 15px;
+    top: 10px;
+    background: #BC9A44;
+  }
+  
+    .left{
+      display: flex;
+      flex-direction: row;
+      background-image: url('../img//woodRight.png');
+      background-repeat: no-repeat;
+      width: 853.29px;
+      height: 659.87px;
+      left: 748.93px;
+      top: -1px;
+      opacity: 0.3;
+    }
+  
+    .right{
+      display: flex;
+      flex-direction: column;
+      background-image: url('../img//woodLeft.png');
+      background-repeat: no-repeat;
+      width: 853.29px;
+      height: 659.87px;
+      left: 748.93px;
+      top: -1px;
+      opacity: 0.3;
+    }
+  .title{
+    position: absolute;
+    width: 319px;
+    height: 111px;
+    left: 600px;
+    top: 218px;
+  }
+  
+  .titleligne{
+    position: absolute;
+    width: 115px;
+    height: 8px;
+    left: 65px;
+    top: 20px;
+    background: #BC9A44;
+    border-radius: 4px; 
+  }
+  
+  .headerligne{
+    position: absolute;
+    width: 142px;
+    height: 0px;
+    left: 1315px;
+    top: 580px;
+    border: 1px solid #BC9A44;
+    transform: rotate(89.6deg);
+  }
+  

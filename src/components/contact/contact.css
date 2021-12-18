@@ -1,0 +1,72 @@
+.contact{
+    position: absolute;
+    width: 269px;
+    height: 49px;
+    left: 393px;
+    top: 2961px;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+
+form {
+    display:grid;
+    direction: row;
+    grid-column-gap: 5px;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;    
+}
+
+.firstName{
+    
+    width: 299px;
+    height: 31px;
+    margin:0px 0px 20px 0px;
+    border: 1px solid #BCB5B5;
+    box-sizing: border-box;
+    border-radius: 34px;
+}
+
+.lastName{
+    
+    width: 299px;
+    height: 31px;
+    margin:0px 0px 20px 10px;
+    border: 1px solid #BCB5B5;
+    box-sizing: border-box;
+    border-radius: 34px;
+}
+
+.email{
+    width: 392px;
+    height: 32px;
+    margin:0px 0px 20px 0px;
+    border: 1px solid #BCB5B5;
+    box-sizing: border-box;
+    border-radius: 34px;
+}
+.text{
+    width: 630px;
+    height: 275px;
+    margin:0px 0px 20px 0px;
+    border: 1px solid #BCB5B5;
+    box-sizing: border-box;
+    border-radius: 34px;
+    grid-column: 1 / span 2;
+}
+
+::placeholder {
+    font-family: 'Raleway' , sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #D3C08E;
+    padding: 5px;
+}

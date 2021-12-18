@@ -1,0 +1,120 @@
+.team{
+    position: absolute;
+    width: 1500px;
+    height: 811px;
+    left: 0px;
+    top: 2034px;
+    background: #1D1818;
+}
+
+.teamImg{
+    position: absolute;
+    width: 382px;
+    height: 811px;
+    left: 244px;
+    background: rgba(188, 154, 68, 0.55);
+    opacity: 0.3;
+}
+
+.logoTeam{
+    position: absolute;
+    width: 103.84px;
+    height: 16px;
+    left: 1345px;
+    margin-top:25px;
+}
+
+.lineTeam{
+    position: absolute;
+    width: 43px;
+    height: 3.03px;
+    left: 1379px;
+    margin-top:30px;
+    background: #BC9A44;
+}
+
+.rectTeam{
+    position: absolute;
+    width: 532px;
+    height: 102px;
+    left: 505px;
+    margin-top:120px;
+    background: #FFFFFF;
+    align-content: center;
+    justify-content: center;
+}
+.titleTeam{
+    margin:25px 70px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 160%;
+    /* or 67px */
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+
+.teamTitle{
+    position: absolute;
+    width: 388px;
+    height: 78px;
+    left: 709px;
+    top:250px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 160%;
+    /* or 67px */
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.teamPara{
+    position: absolute;
+    width: 530px;
+    height: 294px;
+    left: 725px;
+    top: 350px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    text-align: justify;
+}
+
+.meet{
+    position: absolute;
+    width: 204px;
+    height: 54px;
+    left: 771px;
+    top: 670px;
+    border: 2px solid #BC9A44;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.teamMeet{
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.lineMeet{
+    position: absolute;
+    width: 151px;
+    height: 0px;
+    left: 185px;
+    top: 28px;
+    border: 2px solid #FFFFFF;
+}
